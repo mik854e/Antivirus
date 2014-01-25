@@ -1,7 +1,9 @@
-Michael Saltzman
-mjs2287
+====================
+Antivirus 
+====================
 
-Data Structures: Programming 2
+An antivirus program written in Java that can scan a file and detect if it is
+a virus using Bayesian analysis.
 
 
 USAGE
